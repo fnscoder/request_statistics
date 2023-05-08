@@ -1,0 +1,4 @@
+Flask
+Redis
+pytest
+pytest-flask
